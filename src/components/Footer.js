@@ -11,7 +11,7 @@ export default function Footer() {
 					target='_blank'
 					rel='noopener noreferrer'
 					className={style.links}
-					href='www.github.com/yafira'
+					href='https://www.github.com/yafira'
 				>
 					<img
 						src={github_logo}
@@ -22,7 +22,7 @@ export default function Footer() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className={style.links}
-						href='www.dribbble.com/y-fi'
+						href='https://www.dribbble.com/y-fi'
 					>
 						<img
 							src={dribbble_logo}

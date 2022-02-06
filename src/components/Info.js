@@ -26,18 +26,18 @@ export default function Info() {
 					<a
 						target='_blank'
 						rel='noopener noreferrer'
-						className={`${style.links} ${style.email}`}
+						className={`${styles.links} ${styles.email}`}
 						href='mailto:yfr.mrtnz@gmail.com'
 					>
-						<img className={style.icons} src={email_logo} alt='' /> Email
+						<img className={styles.icons} src={email_logo} alt='' /> Email
 					</a>
 					<a
 						target='_blank'
 						rel='noopener noreferrer'
-						className={`${style.links} ${style.linkedin}`}
+						className={`${styles.links} ${styles.linkedin}`}
 						href='https://www.linkedin.com/in/yafira/'
 					>
-						<img className={style.icons} src={linkedin_logo} alt='' />
+						<img className={styles.icons} src={linkedin_logo} alt='' />
 						LinkedIn
 					</a>
 				</div>

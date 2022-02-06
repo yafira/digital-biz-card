@@ -13,11 +13,11 @@ export default function Info() {
 			<div className={style.bio}>
 				<h1 className={style.name}>Yafira Martinez</h1>
 				<p className={style.title}>Developer and Designer</p>
-				<p className={style.small}>Portfolio:</p>
+				<p className={style.small}>Portfolio ↴</p>
 				<a
 					target='_blank'
 					rel='noopener noreferrer'
-					className={`${style.links}`}
+					className={`${style.links} ${style.portfolio}`}
 					href='https://yafira.github.io/'
 				>
 					yafira.github.io

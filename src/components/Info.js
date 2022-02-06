@@ -13,7 +13,7 @@ export default function Info() {
 			<div className={styles.bio}>
 				<h1 className={styles.name}>Yafira Martinez</h1>
 				<p className={styles.title}>Developer and Designer</p>
-				<p className={styles.small}>Portfolio ↴</p>
+				<p className={styles.small}>✿ Portfolio ↴</p>
 				<a
 					target='_blank'
 					rel='noopener noreferrer'

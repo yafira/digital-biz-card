@@ -19,30 +19,30 @@ export default function Footer() {
 						alt="Click to open Yafira's GitHub"
 						className={styles.social_icons}
 					/>
-					<a
-						target='_blank'
-						rel='noopener noreferrer'
-						className={styles.links}
-						href='https://www.dribbble.com/y-fi'
-					>
-						<img
-							src={dribbble_logo}
-							alt="Click to open Yafira's Dribbble"
-							className={styles.social_icons}
-						/>
-					</a>
-					<a
-						target='_blank'
-						rel='noopener noreferrer'
-						className={styles.links}
-						href='https://elqtrct.wordpress.com/'
-					>
-						<img
-							src={wordpress_logo}
-							alt="Click to open Yafira's Wordpress Blog"
-							className={styles.social_icons}
-						/>
-					</a>
+				</a>
+				<a
+					target='_blank'
+					rel='noopener noreferrer'
+					className={styles.links}
+					href='https://www.dribbble.com/y-fi'
+				>
+					<img
+						src={dribbble_logo}
+						alt="Click to open Yafira's Dribbble"
+						className={styles.social_icons}
+					/>
+				</a>
+				<a
+					target='_blank'
+					rel='noopener noreferrer'
+					className={styles.links}
+					href='https://elqtrct.wordpress.com/'
+				>
+					<img
+						src={wordpress_logo}
+						alt="Click to open Yafira's Wordpress Blog"
+						className={styles.social_icons}
+					/>
 				</a>
 			</div>
 		</footer>

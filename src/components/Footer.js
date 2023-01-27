@@ -24,7 +24,7 @@ export default function Footer() {
 					target='_blank'
 					rel='noopener noreferrer'
 					className={styles.links}
-					href='https://www.dribbble.com/y-fi'
+					href='https://www.dribbble.com/yafira'
 				>
 					<img
 						src={dribbble_logo}

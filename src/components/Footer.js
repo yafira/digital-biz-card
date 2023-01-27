@@ -36,7 +36,7 @@ export default function Footer() {
 					target='_blank'
 					rel='noopener noreferrer'
 					className={styles.links}
-					href='https://elqtrct.wordpress.com/'
+					href='https://blog.electrocute.io/'
 				>
 					<img
 						src={wordpress_logo}
